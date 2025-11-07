@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\vs\\X_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C085A2F-7AEA-43CE-804A-CF3242357984}|X_Pattern\\X_Pattern.vcxproj|D:\\study\\vs\\X_Pattern\\X_Pattern\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C085A2F-7AEA-43CE-804A-CF3242357984}|X_Pattern\\X_Pattern.vcxproj|solutionrelative:X_Pattern\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\study\\vs\\X_Pattern\\X_Pattern\\test.c",
+              "RelativeDocumentMoniker": "X_Pattern\\test.c",
+              "ToolTip": "D:\\study\\vs\\X_Pattern\\X_Pattern\\test.c",
+              "RelativeToolTip": "X_Pattern\\test.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-07T00:47:38.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
