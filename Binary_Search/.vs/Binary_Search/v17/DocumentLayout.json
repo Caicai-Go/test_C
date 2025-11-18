@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\vs\\Binary_Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2AB92E-CBBB-4B20-95C9-A5D0ECECBD69}|Binary_Search\\Binary_Search.vcxproj|D:\\study\\vs\\Binary_Search\\Binary_Search\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D2AB92E-CBBB-4B20-95C9-A5D0ECECBD69}|Binary_Search\\Binary_Search.vcxproj|solutionrelative:Binary_Search\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\study\\vs\\Binary_Search\\Binary_Search\\test.c",
+              "RelativeDocumentMoniker": "Binary_Search\\test.c",
+              "ToolTip": "D:\\study\\vs\\Binary_Search\\Binary_Search\\test.c",
+              "RelativeToolTip": "Binary_Search\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T11:44:24.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
