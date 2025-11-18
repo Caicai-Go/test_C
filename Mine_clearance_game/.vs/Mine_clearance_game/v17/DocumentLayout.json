@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\study\\vs\\Mine_clearance_game\\",
+  "WorkspaceRootPath": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|solutionrelative:Mine_clearance_game\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|solutionrelative:Mine_clearance_game\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B78A6E58-B779-4704-80E0-4D115BC23362}|Mine_clearance_game\\Mine_clearance_game.vcxproj|solutionrelative:Mine_clearance_game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\test.c",
+              "DocumentMoniker": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\test.c",
               "RelativeDocumentMoniker": "Mine_clearance_game\\test.c",
-              "ToolTip": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\test.c",
+              "ToolTip": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\test.c",
               "RelativeToolTip": "Mine_clearance_game\\test.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "game.c",
-              "DocumentMoniker": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.c",
+              "DocumentMoniker": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.c",
               "RelativeDocumentMoniker": "Mine_clearance_game\\game.c",
-              "ToolTip": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.c",
+              "ToolTip": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.c",
               "RelativeToolTip": "Mine_clearance_game\\game.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-17T08:05:16.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:05:16.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "game.h",
-              "DocumentMoniker": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.h",
+              "DocumentMoniker": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.h",
               "RelativeDocumentMoniker": "Mine_clearance_game\\game.h",
-              "ToolTip": "D:\\study\\vs\\Mine_clearance_game\\Mine_clearance_game\\game.h",
+              "ToolTip": "D:\\study\\vs\\github\\test_C\\Mine_clearance_game\\Mine_clearance_game\\game.h",
               "RelativeToolTip": "Mine_clearance_game\\game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-17T08:06:43.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:06:43.841Z"
             }
           ]
         }
