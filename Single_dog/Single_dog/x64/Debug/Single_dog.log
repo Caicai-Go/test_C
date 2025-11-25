@@ -1,0 +1,3 @@
+﻿  test.c
+D:\study\vs\Single_dog\Single_dog\test.c(36,1): warning C4715: “Single_dog”: 不是所有的控件路径都返回值
+  Single_dog.vcxproj -> D:\study\vs\Single_dog\x64\Debug\Single_dog.exe
