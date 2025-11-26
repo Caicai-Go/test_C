@@ -1,0 +1,4 @@
+﻿  test.c
+D:\study\vs\Result_of_string_rotation\Result_of_string_rotation\test.c(15,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\vs\Result_of_string_rotation\Result_of_string_rotation\test.c(16,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Result_of_string_rotation.vcxproj -> D:\study\vs\Result_of_string_rotation\x64\Debug\Result_of_string_rotation.exe
