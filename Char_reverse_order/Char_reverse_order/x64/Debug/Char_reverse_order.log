@@ -1,0 +1,4 @@
+﻿  test.c
+D:\study\vs\Char_reverse_order\Char_reverse_order\test.c(23,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\study\vs\Char_reverse_order\Char_reverse_order\test.c(24,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Char_reverse_order.vcxproj -> D:\study\vs\Char_reverse_order\x64\Debug\Char_reverse_order.exe

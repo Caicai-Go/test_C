@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\vs\\Char_reverse_order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6675677-AB58-44C8-A222-5825162FE81F}|Char_reverse_order\\Char_reverse_order.vcxproj|D:\\study\\vs\\Char_reverse_order\\Char_reverse_order\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6675677-AB58-44C8-A222-5825162FE81F}|Char_reverse_order\\Char_reverse_order.vcxproj|solutionrelative:Char_reverse_order\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\study\\vs\\Char_reverse_order\\Char_reverse_order\\test.c",
+              "RelativeDocumentMoniker": "Char_reverse_order\\test.c",
+              "ToolTip": "D:\\study\\vs\\Char_reverse_order\\Char_reverse_order\\test.c",
+              "RelativeToolTip": "Char_reverse_order\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:31:18.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
